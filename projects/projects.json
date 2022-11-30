@@ -1,0 +1,143 @@
+[
+  {
+    "name": "Lagunitas",
+    "desc": "Designed the UI of lagunitas website using HTML,CSS and JS usign gsap transitions",
+    "image": "lagunitas",
+    "category": "basicweb",
+    "links": {
+      "view":"https://singhshivanii.github.io/Lagunitas/",
+      "code": "https://github.com/singhshivanii/Lagunitas"
+      
+    }
+  },
+  {
+    "name": "getTala",
+    "desc": "Redesigned the getTala website using basic HTML,CSS and JS using gsap transitions",
+    "image": "tala",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/singhshivanii/getTala",
+      "code": "https://singhshivanii.github.io/getTala/"
+    }
+  },
+  {
+    "name": "Space-x ",
+    "desc": "Mimicked the famous space x website using html css and js",
+    "image": "spacex",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/singhshivanii/spaceX-Redesign",
+      "code": " https://singhshivanii.github.io/spaceX-Redesign/"
+    }
+  },
+  {
+    "name": "Path-Finding-Visualizer",
+    "desc": "One can play around and visualize the difference in efficiency of different path finding algo on bigger and more complicated scale.made using html,css and js",
+    "image": "pfv",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/singhshivanii/path-Finding-visualizer",
+      "code": " https://singhshivanii.github.io/path-Finding-visualizer/"
+    }
+  },
+  {
+    "name": "Calculator",
+    "desc": "Basic claculator done all task like addition subtraction etc.",
+    "image": "calc",
+    "category": "basicweb",
+    "links": {
+      "code": "https://github.com/singhshivanii/calculator"
+    }
+  },
+  {
+    "name": "Hulu Website",
+    "desc": "Hulu website built using NextJS and tailwindCSS. API used TMDB.",
+    "image": "hulu",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Bootstrap Portfolio",
+    "desc": "Portfolio built using HTML, CSS, Bootstrap, SASS and JavaScript. Customized Bootstrap using SCSS.",
+    "image": "bootstrapportfolio",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Bootstrap Template",
+    "desc": "Basic website template built using HTML and Bootstrap.",
+    "image": "bootstraptemplate",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Foodicious",
+    "desc": "Basic food website landing page built using HTML, CSS and JavaScript.",
+    "image": "foodicious",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Food Website",
+    "desc": "Basic food website landing page built using HTML, CSS, SASS, Bootstrap and jQuery.",
+    "image": "foodwebsite",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Photo Website",
+    "desc": "Basic webpage displays the Image Gallery.",
+    "image": "kiaweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Burger Shop Dummy",
+    "desc": "Basic burger shop webpage allow users to check menu and price. Dummy Order Form.",
+    "image": "burgerweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "India",
+    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
+    "image": "templeweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+  
+]
